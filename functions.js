@@ -1,5 +1,5 @@
 
-const BASE_URL = 'http://81.200.145.210/';
+const BASE_URL = 'https://senseitradebot.ru/';
 
 async function getSettings(userId) {
     try {
